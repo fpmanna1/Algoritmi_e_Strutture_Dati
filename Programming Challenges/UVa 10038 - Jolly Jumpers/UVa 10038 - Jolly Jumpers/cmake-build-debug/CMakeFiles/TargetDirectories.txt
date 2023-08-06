@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 10038 - Jolly Jumpers/cmake-build-debug/CMakeFiles/UVa_10038___Jolly_Jumpers.dir
+C:/Users/nokia/CLionProjects/UVa 10038 - Jolly Jumpers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 10038 - Jolly Jumpers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
