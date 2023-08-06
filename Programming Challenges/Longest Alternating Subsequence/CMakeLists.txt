@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(Longest_Alternating_Subsequence)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(Longest_Alternating_Subsequence longest_altenating_subsequence.cpp)
