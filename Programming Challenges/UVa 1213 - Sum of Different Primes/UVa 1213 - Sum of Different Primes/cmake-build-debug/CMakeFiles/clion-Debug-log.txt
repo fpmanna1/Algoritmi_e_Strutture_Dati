@@ -1,0 +1,60 @@
+"C:\Program Files\JetBrains\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.3/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\nokia\Documents\Università\A.A. 2022-2023\Algoritmi e Strutture Dati\Esercizi\Ex_Per_Seconda_Prova\UVa 1213 - Sum of Different Primes\UVa 1213 - Sum of Different Primes" -B "C:\Users\nokia\Documents\Università\A.A. 2022-2023\Algoritmi e Strutture Dati\Esercizi\Ex_Per_Seconda_Prova\UVa 1213 - Sum of Different Primes\UVa 1213 - Sum of Different Primes\cmake-build-debug"
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_5dff7.dir/./
+
+  has 245 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+CMake Warning in C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_c7676.dir/./
+
+  has 245 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCCompiler.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2022.1.3/bin/cmake/win/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake:69 (message):
+  The C compiler
+
+    "C:/MinGW/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.1.3/bin/ninja/win/ninja.exe cmTC_c7676 && ninja: error: 'C:/Users/nokia/Documents/Universit├á/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c', needed by 'CMakeFiles/cmTC_c7676.dir/testCCompiler.c.obj', missing and no known rule to make it
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,51 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.1.3/bin/ninja/win/ninja.exe cmTC_5dff7 && [1/2] Building C object CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj
+FAILED: CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj 
+C:\MinGW\bin\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/JetBrains/CLion 2022.1.3/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:/Program Files/JetBrains/CLion 2022.1.3/bin/cmake/win/share/cmake-3.24/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj -version -fdiagnostics-color=always -o C:\Users\nokia\AppData\Local\Temp\ccnYl5M3.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj C:\Users\nokia\AppData\Local\Temp\ccnYl5M3.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_5dff7.dir/CMakeCCompilerABI.c.obj: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.1.3/bin/ninja/win/ninja.exe cmTC_c7676 && ninja: error: 'C:/Users/nokia/Documents/Universit├á/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/UVa 1213 - Sum of Different Primes/UVa 1213 - Sum of Different Primes/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c', needed by 'CMakeFiles/cmTC_c7676.dir/testCCompiler.c.obj', missing and no known rule to make it
+
+
+
