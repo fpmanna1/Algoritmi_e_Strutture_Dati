@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 13109 - Elephants/cmake-build-debug/CMakeFiles/UVa_13109___Elephants.dir
+C:/Users/nokia/CLionProjects/UVa 13109 - Elephants/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 13109 - Elephants/cmake-build-debug/CMakeFiles/rebuild_cache.dir
