@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 10611 - The Playboy Chimp/cmake-build-debug/CMakeFiles/UVa_10611___The_Playboy_Chimp.dir
+C:/Users/nokia/CLionProjects/UVa 10611 - The Playboy Chimp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 10611 - The Playboy Chimp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

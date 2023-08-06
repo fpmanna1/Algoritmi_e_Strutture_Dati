@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 11876 - N + NOD N/cmake-build-debug/CMakeFiles/UVa_11876___N___NOD_N.dir
+C:/Users/nokia/CLionProjects/UVa 11876 - N + NOD N/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 11876 - N + NOD N/cmake-build-debug/CMakeFiles/rebuild_cache.dir

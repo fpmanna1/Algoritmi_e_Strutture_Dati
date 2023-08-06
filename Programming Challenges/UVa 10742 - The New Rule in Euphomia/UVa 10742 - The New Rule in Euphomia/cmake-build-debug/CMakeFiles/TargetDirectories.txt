@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 10742 - The New Rule in Euphomia/cmake-build-debug/CMakeFiles/UVa_10742___The_New_Rule_in_Euphomia.dir
+C:/Users/nokia/CLionProjects/UVa 10742 - The New Rule in Euphomia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 10742 - The New Rule in Euphomia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
