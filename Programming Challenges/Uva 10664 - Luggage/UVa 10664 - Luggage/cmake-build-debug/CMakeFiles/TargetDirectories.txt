@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 10664 - Luggage/cmake-build-debug/CMakeFiles/UVa_10664___Luggage.dir
+C:/Users/nokia/CLionProjects/UVa 10664 - Luggage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 10664 - Luggage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
