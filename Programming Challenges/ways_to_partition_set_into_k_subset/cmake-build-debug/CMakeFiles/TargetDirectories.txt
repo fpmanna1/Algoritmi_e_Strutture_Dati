@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/ways_to_partition_set_into_k_subset/cmake-build-debug/CMakeFiles/ways_to_partition_set_into_k_subset.dir
+C:/Users/nokia/CLionProjects/ways_to_partition_set_into_k_subset/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/ways_to_partition_set_into_k_subset/cmake-build-debug/CMakeFiles/rebuild_cache.dir

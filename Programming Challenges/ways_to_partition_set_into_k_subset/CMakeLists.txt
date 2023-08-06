@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(ways_to_partition_set_into_k_subset)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(ways_to_partition_set_into_k_subset ways_to_partition_set_into_k_subset.cpp)
