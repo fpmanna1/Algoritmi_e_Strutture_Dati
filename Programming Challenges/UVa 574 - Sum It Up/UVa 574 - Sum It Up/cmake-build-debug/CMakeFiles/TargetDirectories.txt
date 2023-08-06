@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 574 - Sum It Up/cmake-build-debug/CMakeFiles/UVa_574___Sum_It_Up.dir
+C:/Users/nokia/CLionProjects/UVa 574 - Sum It Up/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 574 - Sum It Up/cmake-build-debug/CMakeFiles/rebuild_cache.dir

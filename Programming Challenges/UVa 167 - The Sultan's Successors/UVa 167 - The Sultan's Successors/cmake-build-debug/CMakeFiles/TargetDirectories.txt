@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 167 - The Sultan's Successors/cmake-build-debug/CMakeFiles/UVa_167___The_Sultan_s_Successors.dir
+C:/Users/nokia/CLionProjects/UVa 167 - The Sultan's Successors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 167 - The Sultan's Successors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
