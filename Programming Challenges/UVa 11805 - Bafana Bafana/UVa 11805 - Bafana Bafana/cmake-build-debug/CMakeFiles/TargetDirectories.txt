@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 11805 - Bafana Bafana/cmake-build-debug/CMakeFiles/UVa_11805___Bafana_Bafana.dir
+C:/Users/nokia/CLionProjects/UVa 11805 - Bafana Bafana/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 11805 - Bafana Bafana/cmake-build-debug/CMakeFiles/rebuild_cache.dir

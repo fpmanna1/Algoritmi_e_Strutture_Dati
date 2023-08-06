@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 11495 - Bubbles and Buckets/cmake-build-debug/CMakeFiles/UVa_11495___Bubbles_and_Buckets.dir
+C:/Users/nokia/CLionProjects/UVa 11495 - Bubbles and Buckets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 11495 - Bubbles and Buckets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

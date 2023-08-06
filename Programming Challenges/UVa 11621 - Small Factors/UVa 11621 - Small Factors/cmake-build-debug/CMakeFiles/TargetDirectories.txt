@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/UVa 11621 - Small Factors/cmake-build-debug/CMakeFiles/UVa_11621___Small_Factors.dir
+C:/Users/nokia/CLionProjects/UVa 11621 - Small Factors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/UVa 11621 - Small Factors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
