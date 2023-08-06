@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(LS_Such_That_Difference_Between_Adjacents_is_One)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(LS_Such_That_Difference_Between_Adjacents_is_One main.cpp)

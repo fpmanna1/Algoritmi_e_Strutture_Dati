@@ -1,0 +1,40 @@
+"C:\Program Files\JetBrains\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.3/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\nokia\Documents\Università\A.A. 2022-2023\Algoritmi e Strutture Dati\Esercizi\Ex_Per_Seconda_Prova\LS Such That Difference Between Adjacents is One" -B "C:\Users\nokia\Documents\Università\A.A. 2022-2023\Algoritmi e Strutture Dati\Esercizi\Ex_Per_Seconda_Prova\LS Such That Difference Between Adjacents is One\cmake-build-debug"
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/LS Such That Difference Between Adjacents is One/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/LS Such That Difference Between Adjacents is One/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_3094a.dir/./
+
+  has 224 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/MinGW/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target:
+  LS_Such_That_Difference_Between_Adjacents_is_One
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
