@@ -1,0 +1,3 @@
+C:/Users/nokia/CLionProjects/Count_ways_reach_the_end/cmake-build-debug/CMakeFiles/Count_ways_reach_the_end.dir
+C:/Users/nokia/CLionProjects/Count_ways_reach_the_end/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/CLionProjects/Count_ways_reach_the_end/cmake-build-debug/CMakeFiles/rebuild_cache.dir

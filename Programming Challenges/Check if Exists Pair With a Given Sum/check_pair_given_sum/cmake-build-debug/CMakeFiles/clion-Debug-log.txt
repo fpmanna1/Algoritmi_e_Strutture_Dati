@@ -1,0 +1,58 @@
+"C:\Program Files\JetBrains\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.1.3/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Users\nokia\Documents\Università\A.A. 2022-2023\Algoritmi e Strutture Dati\Esercizi\Ex_Per_Seconda_Prova\Check if Exists Pair With a Given Sum\check_pair_given_sum" -B "C:\Users\nokia\Documents\Università\A.A. 2022-2023\Algoritmi e Strutture Dati\Esercizi\Ex_Per_Seconda_Prova\Check if Exists Pair With a Given Sum\check_pair_given_sum\cmake-build-debug"
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Check if Exists Pair With a Given Sum/check_pair_given_sum/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Check if Exists Pair With a Given Sum/check_pair_given_sum/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_490d5.dir/./
+
+  has 234 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Check if Exists Pair With a Given Sum/check_pair_given_sum/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Check if Exists Pair With a Given Sum/check_pair_given_sum/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_c28f0.dir/./
+
+  has 234 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/MinGW/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Check if Exists Pair With a Given Sum/check_pair_given_sum/cmake-build-debug/CMakeFiles/check_pair_given_sum.dir/./
+
+  has 224 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    check_pair_given_sum.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done
+-- Build files have been written to: C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Check if Exists Pair With a Given Sum/check_pair_given_sum/cmake-build-debug
