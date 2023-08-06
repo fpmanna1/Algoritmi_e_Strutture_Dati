@@ -1,0 +1,3 @@
+C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Min_Max_Expression/cmake-build-debug/CMakeFiles/Min_Max_Expression.dir
+C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Min_Max_Expression/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nokia/Documents/Università/A.A. 2022-2023/Algoritmi e Strutture Dati/Esercizi/Ex_Per_Seconda_Prova/Min_Max_Expression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
